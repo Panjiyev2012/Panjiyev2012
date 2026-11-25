@@ -1,17 +1,14 @@
-<!--
-  Profile README for Panjiyev2012
-  Keep this page honest, focused, and easy to scan.
--->
-
 <div align="center">
 
-# Ulug'bek Panjiyev
+<img src="assets/profile-banner.svg" alt="Ulug'bek Panjiyev developer banner" width="100%" />
 
-### Developer · Builder · Curious by default
+### Building ideas into real projects.
 
-I build practical software, experiment with AI, and turn ideas into working projects.
+Developer · Builder · AI Explorer
 
 **Stop Wishing, Start Doing.**
+
+[![GitHub](https://img.shields.io/badge/GitHub-Panjiyev2012-181717?style=for-the-badge&logo=github)](https://github.com/Panjiyev2012)
 
 </div>
 
@@ -19,21 +16,20 @@ I build practical software, experiment with AI, and turn ideas into working proj
 
 ## About
 
-- Currently exploring **AI-powered tools**, desktop software, and useful web apps.
-- Interested in building products from the first idea to a working release.
-- I enjoy learning by making things, testing them, and improving what doesn't work.
-- Main project direction: **MOVRA**.
+- Exploring **AI-powered tools**, desktop applications, and web products.
+- I learn by building, testing, breaking things, and improving them.
+- Currently focused on **MOVRA** and practical software experiments.
+- Interested in clean workflows, useful products, and open-source development.
 
-## Selected projects
+## Featured projects
 
-| Project | What it is |
+| Project | Focus |
 | --- | --- |
-| [Dostlar Jangi](https://github.com/Panjiyev2012/dostlar-jangi) | A game project built around friendly competition. |
-| [QRShare](https://github.com/Panjiyev2012/qrshare) | A project exploring QR-based sharing. |
+| [Dostlar Jangi](https://github.com/Panjiyev2012/dostlar-jangi) | Game development |
+| [QRShare](https://github.com/Panjiyev2012/qrshare) | QR-based sharing |
+| [Football Bot](https://github.com/Panjiyev2012/fudbol-bot) | Telegram / bot experiments |
 
-> More experiments and projects will appear here as they become ready to share.
-
-## Tools & technologies
+## Tech I work with
 
 <div align="center">
 
@@ -48,11 +44,20 @@ I build practical software, experiment with AI, and turn ideas into working proj
 
 </div>
 
+## GitHub overview
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Panjiyev2012&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Panjiyev2012&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
+
+</div>
+
 ## Current focus
 
 - Building and refining **MOVRA**.
 - Improving software architecture and development workflows.
-- Shipping small, useful projects and learning from real feedback.
+- Turning small experiments into useful, finished projects.
 
 ---
 
